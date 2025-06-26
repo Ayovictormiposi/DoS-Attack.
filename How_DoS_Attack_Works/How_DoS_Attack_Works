@@ -1,0 +1,5 @@
+DoS attacks aim to oversaturate the capacity of a targeted machine or network, resulting in denial-of-service to additional requests. These attacks can be categorized into two main types:
+
+Buffer Overflow Attacks: These attacks exploit vulnerabilities in a system's memory management, causing it to consume all available resources such as hard disk space, memory, or CPU time. This can lead to system crashes or sluggish behavior.
+
+Flood Attacks: These involve sending an overwhelming amount of packets to a targeted server, saturating its capacity and causing denial-of-service. For example, a Ping Flood attack inundates a target with ICMP (ping) packets, overwhelming its ability to respond.

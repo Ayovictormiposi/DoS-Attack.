@@ -1,0 +1,5 @@
+1. Smurf Attack: Utilizes the broadcast address of a vulnerable network by sending spoofed packets, resulting in the flooding of a targeted IP address
+
+2. Ping of Death: Involves sending malformed packets to a targeted machine, causing system crashes.
+
+3. SYN Flood Attack: Exploits the TCP handshake process by sending SYN messages with a spoofed IP address, causing the server to wait for a response that never comes.

@@ -1,0 +1,11 @@
+To safeguard against DoS attacks, several strategies can be employed:
+
+1. Cloud Mitigation Providers: These providers have built out massive amounts of network bandwidth and DDoS mitigation capacity at multiple sites around the Internet.
+
+2. Firewalls: Can help prevent DoS attacks by blocking traffic from known malicious IP addresses.
+
+3. Intrusion Detection and Prevention Systems (IDS/IPS): These systems analyze network traffic and block malicious traffic.
+
+4. Rate Limiting: Controls the rate of traffic sent or received by a network interface, reducing the impact of web scrapers and brute-force login attempts.
+
+5. Blacklisting/Whitelisting: Blocking or allowing traffic from specific IP addresses, URLs, or domain names.
